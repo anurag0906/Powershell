@@ -1,2 +1,0 @@
-# Get list of running processes on remote server
-/> tasklist /s MachineName
